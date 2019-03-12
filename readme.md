@@ -25,3 +25,18 @@ Additionally, employed borrowers had the highest amount of charged-off loans tha
 For the presentation, I focus on just the influence of borrowers risk and original loan amount into the loan statuses. I start by introducing the loan status variable, followed by its relationship with borrowers risk (ProsperScore) and the original loan amount. 
 
 To analyze the relationships mentioned above, I decided to use box plots because they provide all the statistical information required throughout this project.
+
+
+## Install
+First, fork this repository here on GitHub.
+
+Next, clone this repository to your desktop as shown below:
+
+```
+$ git clone https://github.com/motuchsznajder/prosper-loans.git
+$ cd gapminder
+```
+
+
+##Licence
+The contents of this repository are covered under the [MIT License](LICENSE).
